@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azraa01" alt="azraa01" /></a> </p>
 
-- 🔭 I’m currently working on **Improving my coding skills through projects and collabrotion.**
+- 🔭 I’m currently working on **Improving my coding skills through learning coding & building projects.**
 
 - 🌱 I’m currently learning **Basic programming and communication skills.**
 
