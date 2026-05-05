@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **azraa9259@gmail.com**
 
-- 📄 Know about my experiences **I'm currently studying in 1st year of engineering.so I don't have any experience. But I'm learning coding and developing skills..**
+- 📄 Know about my experiences : **I'm currently studying in 1st year of engineering.so I don't have any experience. But I'm learning coding and developing skills..**
 
 - ⚡ Fun fact **I love learning new things.**
 
